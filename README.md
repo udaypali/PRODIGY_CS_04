@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ## Disclaimer
 
-GhostType is intended for ethical use only. Ensure you have proper authorization before monitoring any system. Unauthorized use of keyloggers may violate laws and result in criminal or civil penalties. The developers of this tool are not responsible for any misuse.
+GhostType is intended for ethical use only. Ensure you have proper authorization before monitoring any system. Unauthorized use of keyloggers may violate laws and result in criminal or civil penalties. The developers of this tool is not responsible for any misuse.
 
 ## License
 
